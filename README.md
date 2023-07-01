@@ -5,6 +5,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanmartincoyne/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2741039/sean-coyne) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCxxf-3DEhY3saVLKVIGucdQ/featured) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=scoyne2&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scoyne2&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scoyne2&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
